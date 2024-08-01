@@ -1,0 +1,27 @@
+{
+  "name": "inputs-package",
+  "version": "1.0.0",
+  "description": "Inputs For All Apps",
+  "main": "inputs.jsx",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pinnacle-Systems/Inputs-Package.git"
+  },
+  "keywords": [
+    "inputs",
+    "for",
+    "react"
+  ],
+  "author": "Mukeshkumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pinnacle-Systems/Inputs-Package/issues"
+  },
+  "homepage": "https://github.com/Pinnacle-Systems/Inputs-Package#readme",
+  "dependencies": {
+    "react": "^18.3.1"
+  }
+}
